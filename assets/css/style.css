@@ -1,0 +1,22 @@
+header{
+background-image:url(intro-bg.jpg);
+height:100vh;
+background-size:cover;
+background-repeat: no-repeat;
+
+}
+
+
+h2.h2-ot{
+font-weight: 400;
+font-size: 38px;
+color: #333;
+text-transform: uppercase;
+
+margin-top: 10px;
+margin-bottom: 15px;
+padding-bottom: 20px;
+
+
+}
+
