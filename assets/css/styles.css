@@ -469,3 +469,11 @@ h1 {
     width: 70%;
   }
 }
+
+.features-item img.img-responsive{
+    height:235px;
+}
+
+img.img-responsive{
+    height:235px;
+}
